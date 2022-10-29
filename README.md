@@ -1,11 +1,11 @@
 
 # Frontend development
 
-A brief description of what this project does and who it's for
+
 
 
 ## 🚀 About Me
-i am a frontend developer...
+A frontend developer...
 
 
 # Hi, I'm Elizabeth Aina! 👋
@@ -29,7 +29,7 @@ i am a frontend developer...
 💬 Ask me about HTML
 
 📫 How to reach me
-c0ntact: 08150495367
+contact: 08150495367
 
 😄 Pronouns...
 
